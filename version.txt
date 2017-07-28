@@ -1,1 +1,4 @@
 echo test ....
+
+
+https://raw.githubusercontent.com/X1n9/test/master/version.txt
